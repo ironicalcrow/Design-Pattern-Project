@@ -3,7 +3,7 @@ public class Player {
     private static Player instance;
 
     private Player() {
-        System.out.println("Player created");
+        System.out.println("Player profile created.\n");
     }
 
     public static Player getInstance() {

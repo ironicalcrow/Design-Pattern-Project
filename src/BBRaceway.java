@@ -5,6 +5,6 @@ public class BBRaceway extends Track {
     }
 
     public void finishLine() {
-        System.out.println("Finish Line reached.");
+        System.out.println("🏁 Finish Line reached.");
     }
 }

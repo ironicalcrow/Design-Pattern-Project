@@ -9,6 +9,6 @@ public class SemaNOS extends NOS {
     }
 
     public void applyNos() {
-        System.out.println("NOS Applied: Sema");
+        System.out.println("⚡ Sema NOS Activated!");
     }
 }

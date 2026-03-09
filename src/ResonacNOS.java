@@ -9,6 +9,6 @@ public class ResonacNOS extends NOS {
     }
 
     public void applyNos() {
-        System.out.println("NOS Applied: Resonac");
+        System.out.println("⚡ Resonac NOS Activated!");
     }
 }
